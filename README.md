@@ -21,10 +21,6 @@
 * MySQL Workbench [Descargar MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 * Composer [Descargar Composer](https://getcomposer.org/download/)
 
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Instalación
 
 1. Clona el repositorio
